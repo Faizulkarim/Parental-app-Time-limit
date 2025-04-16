@@ -2,6 +2,12 @@
 
 This is a simple parental control app designed to help manage and restrict app usage for children. It allows parents to define how much time a child can spend on certain apps and enables monitoring of app activity in a secure way.
 
+##Screenshot
+<img width="270" alt="Screenshot 2025-04-16 at 11 01 18 PM" src="https://github.com/user-attachments/assets/d5682bd4-8157-44a3-861e-4c6d7883b640" />
+
+
+
+
 ## 🧠 How It Works
 
 The app supports two types of user modes:
